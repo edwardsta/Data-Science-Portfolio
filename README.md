@@ -12,6 +12,7 @@ A collection of data science projects that I've created over the years. Some of 
 ## Contents
 
 ### Natural Language Processing
+* [Deep Learning Sentiment Classifier, RNN-LSTM:](https://github.com/edwardsta/sentiment-classifier-rnn-lstm) Predict the sentiment, positive or negative, of a movie review using a deep learning binary classifier. The sentiment classification task is accomplished using a recurrent neural network (RNN) with long short term memory (LSTM) architecture. Python, Keras, Tensorflow.
 
 ### Machine Learning
 * [Simple linear regression:](https://github.com/edwardsta/simple-linear-regression) A supervised learning problem using gradient descent to optimize the cost function J(θ). Predictions of profit are made for a food truck company based on the population of the cities where they may wish to operate a new franchise.
