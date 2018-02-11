@@ -11,6 +11,8 @@ A collection of data science projects that I've created over the years. Some of 
 
 ### Machine Learning
 * [Simple linear regression:](https://github.com/edwardsta/simple-linear-regression) A supervised learning problem using gradient descent to optimize the cost function J(θ). Predictions of profit are made for a food truck company based on the population of the cities where they may wish to operate a new franchise.
+* [Multiple linear regression:](https://github.com/edwardsta/multiple-linear-regression) Same approach as simple linear regression but with multiple feature variables. Predictions of a house's market value in Portland, OR are made using a linear regression model trained on size (square footage), and number of bedrooms.
+
 
 ### Data Analysis and Visualization
 
