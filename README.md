@@ -16,6 +16,8 @@ A collection of data science projects that I've created over the years. Some of 
 
 * [A Simple NLP Preprocessing Pipeline:](https://github.com/edwardsta/simple-nlp-pipeline) An example showing how a function can be used to create a preprocessing pipeline for common natural language processing tasks. This example defines a function 'preprocess()' which will perform sentence and word tokenization, part of speech tagging, and named entity chunking on whatever sample text is provided.
 
+* [Custom Tokenization using Regular Expressions:](https://github.com/edwardsta/tokenization-regular-expressions) Provides a simple example showing how regular expressions can be used to create custom tokenization rules. This example defines a regular expression which is passed to the nltk.RegexpParser method to demonstrate how we can create custom text parsing.
+
 ### Machine Learning
 * [Simple linear regression:](https://github.com/edwardsta/simple-linear-regression) A supervised learning problem using gradient descent to optimize the cost function J(θ). Predictions of profit are made for a food truck company based on the population of the cities where they may wish to operate a new franchise.
 * [Multiple linear regression:](https://github.com/edwardsta/multiple-linear-regression) Same approach as simple linear regression but with multiple variables and feature normalization. Predictions of a house's market value in Portland, OR are made using a linear regression model trained on size (square footage), and number of bedrooms.
