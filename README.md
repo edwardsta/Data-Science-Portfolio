@@ -14,6 +14,8 @@ A collection of data science projects that I've created over the years. Some of 
 ### Natural Language Processing
 * [Deep Learning Sentiment Classifier, RNN-LSTM:](https://github.com/edwardsta/sentiment-classifier-rnn-lstm) Predict the sentiment, positive or negative, of a movie review using a deep learning binary classifier. The sentiment classification task is accomplished using a recurrent neural network (RNN) with long short term memory (LSTM) architecture. Python, Keras, Tensorflow.
 
+* [A Simple NLP Preprocessing Pipeline:](https://github.com/edwardsta/simple-nlp-pipeline) An example showing how a function can be used to create a preprocessing pipeline for common natural language processing tasks. This example defines a function 'preprocess()' which will perform sentence and word tokenization, part of speech tagging, and named entity chunking on whatever sample text is provided.
+
 ### Machine Learning
 * [Simple linear regression:](https://github.com/edwardsta/simple-linear-regression) A supervised learning problem using gradient descent to optimize the cost function J(θ). Predictions of profit are made for a food truck company based on the population of the cities where they may wish to operate a new franchise.
 * [Multiple linear regression:](https://github.com/edwardsta/multiple-linear-regression) Same approach as simple linear regression but with multiple variables and feature normalization. Predictions of a house's market value in Portland, OR are made using a linear regression model trained on size (square footage), and number of bedrooms.
