@@ -10,6 +10,7 @@ A collection of data science projects that I've created over the years. Some of 
 ### Natural Language Processing
 
 ### Machine Learning
+* [Simple linear regression:](https://github.com/edwardsta/simple-linear-regression) A supervised learning problem using gradient descent to optimize the cost function J(θ). Predictions of profit are made for a food truck company based on the population of the cities where they may wish to operate a new franchise.
 
 ### Data Analysis and Visualization
 
