@@ -6,7 +6,7 @@ A collection of data science projects that I've created over the years. Some of 
 * My patents and publications: [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=TU6NdvoAAAAJ&view_op=list_works&gmla=AJsN-F7ZKzVe_EYhbPFninBgw6kF0HaIMBTuVGlO6zvPxempxA3Ot8dbo3GMfIiLivoDkaqLDRDpk6qOqAoxmpvaD0yGbtoGNtitf3izC2JjYw87Ao1H2KO01-kuWWDa-W3pCVRPK16ymFk59n4NT6nUmjwBxer00xEQQBtSfEFLBHMpacdQbJ3FJmtnIr6lCojDP_DQ2S0R&sciund=3997793742447824371)
 * Courses Published with Packt Publishing:
   * [Natural Language Processing with Python](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-python-video)
-  * Deep Learning for NLP using Python (Spring 2018)
+  * Deep Learning for NLP using Python
 * Feel free to reach out to me: te413803@gmail.com
 
 ## Contents
